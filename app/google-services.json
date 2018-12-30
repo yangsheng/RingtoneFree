@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077751183993",
+    "firebase_url": "https://databaseinterface-2c236.firebaseio.com",
+    "project_id": "databaseinterface-2c236",
+    "storage_bucket": "databaseinterface-2c236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077751183993:android:ce8bc00ef2056987",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.example.RingtoneFree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077751183993-3bme8tkic0k34aq63n71md9h8acqavaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd4Szk2XkW6pVLlHOnh0hltWFWmzGI9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

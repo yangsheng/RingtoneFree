@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RingtoneFree</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="impossible_game">Impossible Game</string>
+    <!--Replace with your own ad unit id. -->
+    <string name="ad_unit_id">ca-app-pub-2464025963119043/7056132284</string>
+
+</resources>
